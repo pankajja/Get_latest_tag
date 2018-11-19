@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 #repo="Hello-Jenkins HelloWorldJava"
-echo $repo
-for i in $repo
+echo ${bamboo.repo}
+for i in ${bamboo.repo}
 	do
 		echo "Cloning the $i repo"
 		git clone https://github.com/pankajja/$i.git
