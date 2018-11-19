@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-repo="Hello-Jenkins HelloWorldJava"
+#repo="Hello-Jenkins HelloWorldJava"
 echo $repo
 for i in $repo
 	do
