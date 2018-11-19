@@ -1,0 +1,4 @@
+The latest tag for repo Hello-Jenkins is
+Hello-Jenkins_ver_0.2
+The latest tag for repo HelloWorldJava is
+Release_1_0

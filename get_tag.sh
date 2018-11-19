@@ -11,4 +11,3 @@ echo $repo
 			cd ../
 			rm -rf $i
 		done
-fi
