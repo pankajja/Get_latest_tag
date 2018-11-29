@@ -11,6 +11,6 @@ else
 	else
 		sed -i -e "s/^Build .*$/Build date : $dt/" ./version/version.txt
 		sed -i -e "s/^Version .*$/Version : $version/" ./version/version.txt
-		echo "version Name :" $version_name\_$version>> ./version/version.txt
+		echo "version Name :" $version_name\_$version >> ./version/version.txt
 	fi
 fi 
